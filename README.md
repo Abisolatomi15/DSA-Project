@@ -1,8 +1,7 @@
 # DSA-Project
 
-## Title
-### Amazon Product Review Dashboard 
-Insight from 1,465 Amazon products
+## Title: Amazon Product Review Dashboard 
+### Insight from 1,465 Amazon products
 
 ### Company Overview
 As a Junior Data Analyst at RetailTech Insights, my role involves providing analytical support to e-commerce sellers by leveraging Amazon product and customer review data. This dashboard delivers key insights that can guide strategic decisions in product development, marketing, and customer engagement.
@@ -10,9 +9,12 @@ As a Junior Data Analyst at RetailTech Insights, my role involves providing anal
 ### Data Source
 
 ### Tools/Logic Used
-a. Ms Excel for Data Cleaning
-
-b. Pivot Table
+- Ms Excel for Data Cleaning and visualization
+  - Pivot Table
+  - Data Visualization (Charts)
+  - Slicer
+  - Filters
+  - Conditional Formatting
 
 ### Key Performance Indicators (Top of Dashboard)
 - Highest Review Product Category: Electronics
