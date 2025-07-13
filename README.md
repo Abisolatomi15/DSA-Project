@@ -7,6 +7,7 @@
 As a Junior Data Analyst at RetailTech Insights, my role involves providing analytical support to e-commerce sellers by leveraging Amazon product and customer review data. This dashboard delivers key insights that can guide strategic decisions in product development, marketing, and customer engagement.
 
 ### Data Source
+Web-scrapped Amazon product review data
 
 ### Tools/Logic Used
 - Ms Excel for Data Cleaning and visualization
@@ -46,3 +47,6 @@ As a Junior Data Analyst at RetailTech Insights, my role involves providing anal
 7. Categories with Highest DiscountsThis line chart highlights the top discounted categories, useful for evaluating promotional focus.
 
 8. Product Rating DistributionMajority of highly rated products belong to Electronics and Computers & Accessories, reinforcing customer preference and satisfaction.
+
+### Business Insights and Recommendation
+<img width="585" height="405" alt="image" src="https://github.com/user-attachments/assets/da31b8fc-2d17-4ac7-bb5d-9bdebd34f78b" />
