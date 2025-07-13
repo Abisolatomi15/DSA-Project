@@ -1,5 +1,4 @@
 # DSA-Project
-This is my first project to build my portfolio
 
 ## Title
 ### Amazon Product Review Dashboard 
@@ -20,8 +19,13 @@ b. Pivot Table
 - Products with ≥50% Discount: 751
 - Products with <1,000 Reviews: 326
 - Total Potential Revenue (Actual Price × Rating Count): ₹23,293,386,376.58
-  
-### Data Cleaning and Preparation
+
+## Analysis
+
+### Visuals and Dashboards
+<img width="1240" height="399" alt="image" src="https://github.com/user-attachments/assets/4f1e7fa6-0d20-4e07-928b-c4768dcbd374" />
+
+<img width="1343" height="492" alt="image" src="https://github.com/user-attachments/assets/e3e9f09e-859c-431b-8015-a79c37001966" />
 
 ### Dashboard Insights by Visuals
 
